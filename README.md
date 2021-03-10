@@ -11,7 +11,7 @@ Interested in emerging technologies and innovative businesses.
 💻 Working on a service oriented database architecture.  
 🌐 Looking forward to redesign my website.
 
-<img src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>
+<img src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="50"/>
 
 
 
