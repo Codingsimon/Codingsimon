@@ -15,7 +15,7 @@ Interested in emerging technologies and innovative businesses.
 
 <img src="https://octodex.github.com/images/orderedlistocat.png"
      alt="Octocat"
-     style="float: left; margin-right: 10px; height: 10px" />
+     style="float: left; margin-right: 10px; height: 10px;" />
 
 <!--
 **Codingsimon/Codingsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
