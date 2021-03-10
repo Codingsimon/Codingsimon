@@ -11,13 +11,9 @@ Interested in emerging technologies and innovative businesses.
 💻 Working on a service oriented database architecture.  
 🌐 Looking forward to redesign my website.
 
-![](https://octodex.github.com/images/orderedlistocat.png =250x)
+<img src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>
 
-<img src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="200"/>
 
-<img src="https://octodex.github.com/images/orderedlistocat.png"
-     alt="Octocat"
-     style="float: left; margin-right: 10px; height: 10px;" />
 
 <!--
 **Codingsimon/Codingsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
