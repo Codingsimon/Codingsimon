@@ -13,6 +13,8 @@ Interested in emerging technologies and innovative businesses.
 
 ![](https://octodex.github.com/images/orderedlistocat.png =250x)
 
+<img src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="200"/>
+
 <img src="https://octodex.github.com/images/orderedlistocat.png"
      alt="Octocat"
      style="float: left; margin-right: 10px; height: 10px;" />
