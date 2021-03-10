@@ -1,11 +1,12 @@
-## A 3rd year Business Informatics student.  
-## A Java developer.  
-## Interested in emerging technologies and innovative businesses.  
+### I am Simon
+A 3rd year Business Informatics student.  
+A Java developer.  
+Interested in emerging technologies and innovative businesses.  
 ---------------------------------------------------
 
-Currently learning Spring Boot and neo4j.
-Getting into Machine Learning and Python development.
-Working on a service oriented database architecture. 
+Currently learning Spring Boot and neo4j.  
+Getting into Machine Learning and Python development.  
+Working on a service oriented database architecture.   
 <!--
 **Codingsimon/Codingsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
