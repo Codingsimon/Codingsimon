@@ -1,8 +1,7 @@
-### Hi there 👋
-
-A 3rd year Business Informatics student.
-A Java developer.
-Interested in emerging technologies and innovative businesses.
+## A 3rd year Business Informatics student.  
+## A Java developer.  
+## Interested in emerging technologies and innovative businesses.  
+---------------------------------------------------
 
 Currently learning Spring Boot and neo4j.
 Getting into Machine Learning and Python development.
