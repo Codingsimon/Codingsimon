@@ -1,8 +1,8 @@
 ### I am Simon  
 
 A Business Informatics student.  
-A Java developer.
-Interested in emerging technologies and innovative businesses. 
+A Java developer.  
+
 
 📚 Currently learning Spring Boot and React.
 💻 Working on a Fullstack website with login functionality.
@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 🌐 Looking forward to redesign my website.
+Interested in emerging technologies and innovative businesses.  
 -->
