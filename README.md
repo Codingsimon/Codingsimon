@@ -4,8 +4,8 @@ A Business Informatics student.
 A Java developer.  
 
 
-📚 Currently learning Spring Boot and React.
-💻 Working on a Fullstack website with login functionality.
+📚 Currently learning Spring Boot and React.  
+💻 Working on a Fullstack website with login functionality.  
 🔬 Interested in Machine Learning and Python development.  
 
 
