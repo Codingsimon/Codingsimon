@@ -1,13 +1,13 @@
 ### I am Simon  
 
-A 3rd year Business Informatics student.  
+A Business Informatics student.  
 A Java developer.
 Interested in emerging technologies and innovative businesses. 
 
-📚 Currently learning Spring Boot and neo4j.  
-🔬 Getting into Machine Learning and Python development.  
-💻 Working on a service oriented database architecture.  
-🌐 Looking forward to redesign my website.
+📚 Currently learning Spring Boot and React.
+💻 Working on a Fullstack website with login functionality.
+🔬 Interested in Machine Learning and Python development.  
+
 
 <!--<img align="right" src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>-->
 
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌐 Looking forward to redesign my website.
 -->
