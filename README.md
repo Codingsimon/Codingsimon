@@ -1,4 +1,4 @@
-### I am Simon  Cancel changes
+### I am Simon
 
 A Business Informatics student.  
 A Java developer.  
@@ -6,7 +6,7 @@ A Java developer.
 
 📚 Currently learning Spring Boot and React.  
 💻 Working on a Fullstack website with login functionality.  
-🔬 Interested in Machine Learning, Backend- and Webdevelopment.  
+🔬 Interested in Machine Learning, Java- and Webdevelopment.  
 
 
 <!--<img align="right" src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>-->
