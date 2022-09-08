@@ -1,15 +1,15 @@
-### Hi 👋 I am Simon
+### Hi 👋 I am Simon    
 
 
 I am a Data Analyst with a Business Informatics background.    
-Also doing softwarengineering with Java, Python and Nodejs.     
+Also doing software engineering with Java, Python and Nodejs.     
 
 
 📚 Currently getting into Machine Learning     
-💻 Working on a Flask website.
-🔬 Interested in Python, Linux, Kubernetes and Webdevelopment.  
+💻 Working on a Flask website.    
+🔬 Interested in Python, Linux, Kubernetes and Webdevelopment.   
 
-📫 How to reach me: https://www.linkedin.com/mwlite/in/simon-wimmer-96032816b
+📫 How to reach me: https://www.linkedin.com/mwlite/in/simon-wimmer-96032816b     
 
 <!--<img align="right" src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>-->
 
