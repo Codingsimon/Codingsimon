@@ -1,13 +1,15 @@
-### I am Simon
-
-A Business Informatics student.  
-A Java developer.  
+### Hi 👋 I am Simon
 
 
-📚 Currently learning Spring Boot and React.  
-💻 Working on a Fullstack website with login functionality.  
-🔬 Interested in Machine Learning, Java- and Webdevelopment.  
+I am a Data Analyst with a Business Informatics background.    
+Also doing softwarengineering with Java, Python and Nodejs.     
 
+
+📚 Currently getting into Machine Learning     
+💻 Working on a Flask website.
+🔬 Interested in Python, Linux, Kubernetes and Webdevelopment.  
+
+📫 How to reach me: https://www.linkedin.com/mwlite/in/simon-wimmer-96032816b
 
 <!--<img align="right" src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>-->
 
