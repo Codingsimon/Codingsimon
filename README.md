@@ -2,7 +2,7 @@
 
 
 I am a Data Analyst with a Business Informatics background.    
-Also doing software engineering with Java, Python and Nodejs.     
+Also doing software engineering with Java, Python and Flask.     
 
 
 📚 Currently getting into Machine Learning     
