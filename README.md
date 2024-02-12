@@ -1,13 +1,12 @@
 ### Hi 👋 I am Simon    
 
 
-I am a Data Analyst with a Business Informatics background.    
-Also doing software engineering with Java, Python and Flask.     
+I am a Junior Researcher with a Business Informatics background. 
+I work in Data Science and do time series analysis for predictive maintainance.  
+The programming languages I use are Python, R and Java 
 
-
-📚 Currently getting into Machine Learning     
-💻 Working on a Flask website.    
-🔬 Interested in Python, Linux, Kubernetes and Webdevelopment.   
+📚 Currently learning about the implementation of Machine Learning algorithms     
+🔬 I am also interested in Linux, Docker and Statistics.   
 
 📫 How to reach me: https://www.linkedin.com/mwlite/in/simon-wimmer-96032816b     
 
