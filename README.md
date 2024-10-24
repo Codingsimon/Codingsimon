@@ -9,7 +9,9 @@ The programming languages I use are Python, R and Java
 🔬 I am also interested in Linux, Docker and Statistics.   
 🖥️ My last project is a digital frame software for my photos running on a Raspberry Pi.   
 
-📫 How to reach me: https://www.linkedin.com/in/simon-wimmer-96032816b     
+📫 How to reach me:   
+[Linkedin](https://www.linkedin.com/in/simon-wimmer-96032816b)
+[Personal website](http://codingsimon.com/)
 
 <!--<img align="right" src="https://octodex.github.com/images/orderedlistocat.png" alt="drawing" width="150"/>-->
 
